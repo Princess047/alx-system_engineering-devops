@@ -3,3 +3,4 @@
 -script 1 for printing the username of the current user
 -script 2 for printing groups the user is part of
 -script 3 for changing file owner
+-script 4 to create an empty file called 'hello'
