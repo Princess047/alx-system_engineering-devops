@@ -9,3 +9,4 @@
 -script 7 adds execution permission for everybody to the file 'hello'
 -script 8,James-bond task
 -script 9,Jane-Doe task
+-script 10 sets the mode of the file 'hello' to the same as 'olleh'
