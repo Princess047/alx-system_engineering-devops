@@ -18,4 +18,5 @@
 -script 16 for clean emacs advanced task
 -script 17 for the advanced task 'Tree'
 -script 18 for the fourth advanced task
+-script 19 for the final advanced task 'creating a magic file'
 
