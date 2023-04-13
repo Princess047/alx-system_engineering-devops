@@ -12,4 +12,5 @@
 -script 10 to write a command that changes directory to previous one
 -script 11 for task 11 to write command to list all files
 -script 12 to write a script that prints the file named 'iamfile'
+-script 13 for task 13 to create symbolic link
 
