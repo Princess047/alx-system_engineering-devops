@@ -8,4 +8,5 @@
 -script 6 for task 6 to to create a directory in /tmp directory
 -script 7 to move the file 'betty' to 'myfirstdirectory'
 -script 8 for task 8 to delete the file 'betty'
+-script 9 for task 9 to delete my first directory
 
