@@ -5,3 +5,4 @@
 -script 3 for changing file owner
 -script 4 to create an empty file called 'hello'
 -script 5 adds execute permission to the owner of the file 'hello'
+-script 6 to give multiple permisions
