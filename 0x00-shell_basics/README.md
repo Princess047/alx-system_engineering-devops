@@ -1,9 +1,10 @@
 #!/bin/bash
--first script for the first task
--second script for the second task for the command to display files list
--third script for the third task for the command to change directory
--fourth script for the fourth task for command to list file in long format
--fifth script for the fifth task to diplay hidden files
--sixth script for the sixth task to display hidden files in long format and display files numerically
--seventh script for the seventh task to to create a directory in /tmp directory
+-script 0 for task 0
+-script 1 for task 1 for the command to display files list
+-script 2 for task 2 for the command to change directory
+-script 3 for task 3 for command to list file in long format
+-script 4 for task 4 to diplay hidden files
+-script 5 for task 5 to display hidden files in long format and display files numerically
+-script 6 for task 6 to to create a directory in /tmp directory
+-script 7 to move the file 'betty' to 'myfirstdirectory'
 
