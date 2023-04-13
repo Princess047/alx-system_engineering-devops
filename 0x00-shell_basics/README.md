@@ -5,4 +5,5 @@
 -fourth script for the fourth task for command to list file in long format
 -fifth script for the fifth task to diplay hidden files
 -sixth script for the sixth task to display hidden files in long format and display files numerically
+-seventh script for the seventh task to to create a directory in /tmp directory
 
