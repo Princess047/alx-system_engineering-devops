@@ -7,4 +7,5 @@
 -script 5 adds execute permission to the owner of the file 'hello'
 -script 6 to give multiple permisions
 -script 7 adds execution permission for everybody to the file 'hello'
--script 8, James-bond task
+-script 8,James-bond task
+-script 9,Jane-Doe task
