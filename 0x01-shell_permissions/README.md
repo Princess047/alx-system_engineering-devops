@@ -14,3 +14,4 @@
 -script 12 creates a directory called my dir
 -script 13 changes the group owner to 'school' for the file 'hello'
 -script 14 changes owner and group
+-script 15,symbolic links permissions
