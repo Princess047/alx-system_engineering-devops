@@ -15,3 +15,5 @@
 -script 13 changes the group owner to 'school' for the file 'hello'
 -script 14 changes owner and group
 -script 15,symbolic links permissions
+-script 16 changes the owner of the file hello to betty if the user is guillaume
+-script 17 plays Starwars IV in its terminal
