@@ -11,3 +11,4 @@
 -script 9,Jane-Doe task
 -script 10 sets the mode of the file 'hello' to the same as 'olleh'
 -script 11 adds execute permission to all subdirectories of the current directory for everyone
+-script 12 creates a directory called my dir
