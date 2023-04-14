@@ -13,3 +13,4 @@
 -script 11 adds execute permission to all subdirectories of the current directory for everyone
 -script 12 creates a directory called my dir
 -script 13 changes the group owner to 'school' for the file 'hello'
+-script 14 changes owner and group
