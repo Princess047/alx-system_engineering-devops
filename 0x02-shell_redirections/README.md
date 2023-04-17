@@ -15,3 +15,4 @@
 -script 13 prints solution to task 13
 -script 14 for task 14
 -script 15 to Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+-script 16 Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
