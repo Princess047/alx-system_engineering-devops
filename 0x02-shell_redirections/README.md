@@ -7,3 +7,4 @@
 -script 5 is printing the command for displaying the first 10 lines of a file for task 5
 -script 6 is printing the command for displaying the third line of the file iacta.
 -script 7 is printing the solution to task 7
+-script 8 is printing the solution to task 8
