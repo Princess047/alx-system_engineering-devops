@@ -22,3 +22,4 @@
 -script 20 Creates a script that removes all letters c and C from input
 -script 21 reverses its input for task 21
 -script 22 displays all users and their home directories, sorted by users
+-script 23 finds all empty files and directories in the current directory and all sub-directories 
