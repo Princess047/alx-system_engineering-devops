@@ -15,5 +15,6 @@
 -script 13 prints solution to task 13
 -script 14 for task 14
 -script 15 to Display the number of lines that contain the pattern “bin” in the file /etc/passwd
--script 16 Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
--script 17 Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+-script 16 Displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+-script 17 Displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+-script 18 is Displays all lines of the file /etc/ssh/sshd-config starting with a letter
