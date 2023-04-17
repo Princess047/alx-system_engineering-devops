@@ -8,3 +8,4 @@
 -script 6 is printing the command for displaying the third line of the file iacta.
 -script 7 is printing the solution to task 7
 -script 8 is printing the solution to task 8
+-script 9 is duplicating the last line of the file iacta for task 9
