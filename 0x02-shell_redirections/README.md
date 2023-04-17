@@ -12,3 +12,4 @@
 -script 10 deletes all the regular files  with a .js extension for task 10
 -script 11 counts directories
 -script 12 displays the 10 newest files in the current directory
+-script 13 prints solution to task 13
