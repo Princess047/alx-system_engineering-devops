@@ -20,4 +20,5 @@
 -script 18 is Displays all lines of the file /etc/ssh/sshd-config starting with a letter
 -script 19 Replaces all characters A and c from input to Z and e respectively
 -script 20 Creates a script that removes all letters c and C from input
--script 21 reverses its input for task 21  
+-script 21 reverses its input for task 21
+-script 22 displays all users and their home directories, sorted by users
