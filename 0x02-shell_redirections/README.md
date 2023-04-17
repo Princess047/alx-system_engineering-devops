@@ -5,3 +5,4 @@
 -script 3 is displaying the content of two files for task 3
 -script 4 is printing the command for displaying the last ten lines of a file for task 4
 -script 5 is printing the command for displaying the first 10 lines of a file for task 5
+-script 6 is printing the command for displaying the third line of the file iacta.
