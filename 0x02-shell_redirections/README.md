@@ -19,4 +19,5 @@
 -script 17 Displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 -script 18 is Displays all lines of the file /etc/ssh/sshd-config starting with a letter
 -script 19 Replaces all characters A and c from input to Z and e respectively
--script 20 Creates a script that removes all letters c and C from input 
+-script 20 Creates a script that removes all letters c and C from input
+-script 21 reverses its input for task 21  
