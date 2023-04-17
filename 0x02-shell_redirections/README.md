@@ -14,3 +14,4 @@
 -script 12 displays the 10 newest files in the current directory
 -script 13 prints solution to task 13
 -script 14 for task 14
+-script 15 to Display the number of lines that contain the pattern “bin” in the file /etc/passwd
