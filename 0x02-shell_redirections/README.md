@@ -10,3 +10,4 @@
 -script 8 is printing the solution to task 8
 -script 9 is duplicating the last line of the file iacta for task 9
 -script 10 deletes all the regular files  with a .js extension for task 10
+-script 11 counts directories
