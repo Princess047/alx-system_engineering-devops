@@ -11,3 +11,4 @@
 -script 9 is duplicating the last line of the file iacta for task 9
 -script 10 deletes all the regular files  with a .js extension for task 10
 -script 11 counts directories
+-script 12 displays the 10 newest files in the current directory
