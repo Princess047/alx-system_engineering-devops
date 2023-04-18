@@ -4,3 +4,4 @@
 -script 2 for task 2
 -script 3 to count the number of directories in the PATH
 -script 4 lists environment variables
+-script 5 lists all local variables and environment variables, and functions
