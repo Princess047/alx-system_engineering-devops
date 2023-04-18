@@ -10,4 +10,5 @@
 -script 8 for task 8 
 -script 9 for task 9
 -script 10 for task 10
--script 11 for task 11    
+-script 11 for task 11
+-script 12 prints all possible combinations of two letters, except oo     
