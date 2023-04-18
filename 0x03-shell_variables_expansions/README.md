@@ -12,4 +12,5 @@
 -script 10 for task 10
 -script 11 for task 11
 -script 12 prints all possible combinations of two letters, except oo
--script 13 prints a number with two decimal places, followed by a new line      
+-script 13 prints a number with two decimal places, followed by a new line
+-script 14 converts a number from base 10 to base 16      
