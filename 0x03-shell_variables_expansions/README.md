@@ -7,4 +7,5 @@
 -script 5 lists all local variables and environment variables, and functions
 -script 6 for local variable,task 6
 -script 7 to create a global variable for task 7
--scipt 8 for task 8   
+-scipt 8 for task 8 
+-scrip 9 for task 9   
